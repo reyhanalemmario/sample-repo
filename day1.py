@@ -6,4 +6,4 @@ b = np.array([2, 3.4, 6])
 
 plt.plot(a, b)
 plt.show()
-# Check
+# Check2
